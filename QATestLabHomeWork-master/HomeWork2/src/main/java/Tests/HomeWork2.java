@@ -1,4 +1,4 @@
-package Tests;
+package main.java.Tests;
 
 import Base.BaseScript;
 import Utils.Properties;
